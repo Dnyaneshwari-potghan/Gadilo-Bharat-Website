@@ -1,0 +1,243 @@
+*{
+   box-sizing: border-box;
+   margin: 0;
+   padding: 0;
+   font-family: poppins;
+   font-size: 0.9rem;
+}
+html,
+body{
+    height: auto;
+    width: 100%;
+    overflow-x: hidden;
+}
+
+.section-one-car-and-bike-selling-container-col-all {
+    background-color: #0A6294;
+    height: 50px;
+    position: fixed;
+  
+  }
+  
+  .main-section-wel{
+    margin-top: 60px;
+  }
+  
+  .car-bike-logo-navbar-names {
+    display: flex;
+    justify-content: center;
+    justify-self: end;
+    gap: 40px;
+   
+  
+  
+  }
+  .privacy-policy-section-name-one{
+    font-size: 1.5rem;
+    display: flex;
+    justify-content: center;
+    font-weight: 600;
+
+  }
+  #dadilo{
+     font-weight: 600;
+  }
+  .privacy-policy-section-name-second-para-li ul li{
+    margin-left: 170px;
+    line-height: 30px;
+    
+  }
+  #email{
+    font-weight: 600;
+  }
+  .privacy-policy-section-name-second-para-li-para2{
+    margin-left: 190px;
+    font-weight: 500;
+  }
+  .privacy-policy-section-name-second-para-li-para2-email{
+    margin:20px 210px;
+  }
+
+
+  /* gardilo------------- */
+  .main-section{
+     font-weight: 600;
+  }
+  .dealers-section-name-main{
+    font-size: 1.5rem;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+  }
+  .dealers-section-name-main-one{
+    margin: 10px 180px;
+  }
+  .ealers-section-name-main-row{
+    margin-top: 10px;
+  }
+  .dealers-section-name-main-li-col-ul ul li {
+    margin-left: 170px;
+    line-height: 30px;
+  }
+  #gardilio-subpart{
+               display: flex;
+               flex-direction: column;
+               margin: 10px 200px;
+  }
+
+
+
+
+
+
+
+
+ .container-fluid {
+   margin: 0;
+   padding: 0;
+    padding-right:  0;
+    padding-left:  0px;
+   
+}
+
+
+
+
+
+
+
+
+
+
+/* footer--------------- */
+
+  
+.footer-one-color-para {
+  color: white;
+  display: flex;
+  justify-content: center;
+  font-size: 0.7rem;
+
+}
+
+.footer-one-paragraph-more {
+  background-color: #0A6294;
+ 
+}
+.footer-one-paragraph-more-first-links-name {
+  color: white;
+    font-size: 1rem;
+    font-weight: 700;
+    
+  }
+  .footer-name{
+    color: white;
+    text-decoration: none;
+    font-size: 0.7rem;
+    display: flex;
+  }
+  .footer-one-paragraph-more-first-img-logo-para{
+    font-size: 0.7rem;
+    color: white;
+  }
+  .footer-car-bike-selling-address{
+    color: white;
+    font-size: 1rem;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+  }
+  .footer-car-bike-selling-address-para{
+    color: white;
+    font-size: 0.7rem;
+    line-height: 30px;
+  }
+  .footer-car-bike-selling-address-icon{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+   }
+   #company-link {
+    text-decoration: none;
+    color: white;
+    font-size: 0.7rem;
+  }
+  .footer-one-color-line{
+    border: 1px solid rgb(203, 191, 191);
+  } 
+
+
+
+  
+  @media (min-width:300px) and (max-width:600px){
+    #car-bike-logo{
+      margin-left: -58px !important;
+    }
+    .car-bike-logo-navbar-names {
+      display: flex
+  ;
+      justify-content: center;
+      /* margin-right: 28px; */
+      margin-left: -71px;
+      gap: 17px
+    }
+    .terms-and-cnditions{
+      display: block;
+      justify-content: center;
+    }
+    .privacy-policy-section-name-second-para-li  {
+margin-left: -105px;
+    }
+    .dealers-section-name-main-one {
+      margin: 10px 82px;
+  }
+  .dealers-section-name-main-li-col-ul{
+margin-left: -73px;
+  }
+  .privacy-policy-section-name-second-para-li-para2 {
+    margin-left: 10px;
+  }
+  .privacy-policy-section-name-second-para-li-para2-email {
+    margin: 20px 130px;
+}
+  .dealers-section-name-main-one {
+  margin: 10px 8px;
+}
+
+   }
+   @media (min-width:600px) and (max-width:900px){
+    #car-bike-logo{
+      margin-left: -58px !important;
+    }
+    .car-bike-logo-navbar-names {
+      display: flex
+  ;
+      justify-content: center;
+      /* margin-right: 28px; */
+      margin-left: -71px;
+      gap: 17px
+    }
+    .terms-and-cnditions{
+      display: block;
+      justify-content: center;
+    }
+    .privacy-policy-section-name-second-para-li  {
+margin-left: -105px;
+    }
+    .dealers-section-name-main-one {
+      margin: 10px 82px;
+  }
+  .dealers-section-name-main-li-col-ul{
+margin-left: -73px;
+  }
+  .privacy-policy-section-name-second-para-li-para2 {
+    margin-left: 10px;
+  }
+  .privacy-policy-section-name-second-para-li-para2-email {
+    margin: 20px 130px;
+}
+  .dealers-section-name-main-one {
+  margin: 10px 8px;
+}
+   }
+  

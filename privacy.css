@@ -1,0 +1,170 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: poppins;
+    font-size: 0.9rem;
+ }
+ html,
+ body{
+     height: auto;
+     width: 100%;
+     overflow-x: hidden;
+ }
+ 
+ .section-one-car-and-bike-selling-container-col-all {
+     background-color: #0A6294;
+     height: 50px;
+     position: fixed;
+   
+   }
+   
+   .main-section-wel{
+     margin-top: 60px;
+   }
+   
+   .car-bike-logo-navbar-names {
+     display: flex;
+     justify-content: center;
+     justify-self: end;
+     gap: 40px;
+   }
+   
+   
+   /*  ------------- */
+ #gadilo{
+  font-weight: 600;
+ }
+ 
+ .section-one-gardilo {
+    margin: 90px 0px 0px 0px ;
+    display: flex;
+    justify-content: center;
+    font-size: 1.5rem;
+    font-weight: 600;
+    
+ }
+ .section-one-gardilo-para-one{
+   margin: 10px 40px 50px 60px;
+    text-align: justify;
+     
+ }
+ .section-one-gardilo-para-one-line-part{
+  margin-left: 60px;
+  font-weight: 500;
+ }
+ .section-one-gardilo-para-one-line-part-table-para-table-para1{
+  margin: 10px 60px 10px 120px;
+ }
+ .section-one-gardilo-para-one-line-part-table-para-table-para2{
+  margin: 10px 60px 10px 120px;
+  font-weight: 600;
+ }
+ .section-one-gardilo-para-rights-para-bold{
+  margin:0px 0px 0 60px ;
+  font-weight: 500;
+ }
+ .section-one-gardilo-para-rights-para-one{
+  margin: 10px 60px 10px 120px;
+ }
+ .section-one-gardilo-para-public-para-bold{
+  margin:0px 0px 0 60px ;
+  font-weight: 500;
+ }
+ .section-one-gardilo-para-public-para-one{
+  margin: 10px 60px 10px 120px;
+ }
+ .section-one-gardilo-para-info-para-bold{
+  margin:0px 0px 0 60px ;
+ 
+ }
+ .section-one-gardilo-para-update-para-bold{
+  margin:0px 0px 0 60px ;
+  font-weight: 500;
+ }
+ .section-one-gardilo-para-update-para-one{
+  margin: 10px 60px 10px 120px;
+ }
+ .section-one-gardilo-para-update-para-two{
+  margin:0px 0px 0 60px ;
+  
+ }
+ .section-one-gardilo-para-privacy-poly-para-bold{
+  margin:10px 0px 0 60px ;
+  font-weight: 500;
+ }
+ .section-one-gardilo-para-privacy-poly-para-one{
+  margin: 10px 60px 10px 120px;
+ }
+ 
+ /* footer--------------- */
+ 
+ 
+ .footer-one-color-para {
+     color: white;
+     display: flex;
+     justify-content: center;
+     font-size: 0.8rem;
+   
+   }
+   
+   .footer-one-paragraph-more {
+     background-color: #0A6294;
+   }
+   .footer-one-paragraph-more-first-img-logo-para{
+     font-size: 0.9rem;
+     color: white;
+   }
+   .footer-one-paragraph-more-first-links-name {
+   color: white;
+     font-size: 1rem;
+     font-weight: 700;
+     display: flex;
+     justify-content: center;
+   }
+   
+   #company-link {
+     text-decoration: none;
+     color: white;
+     font-size: 0.8rem;
+   }
+   .footer-name{
+    color: white;
+    text-decoration: none;
+    
+   }
+   .footer-car-bike-selling-address{
+     color: white;
+     font-size: 1rem;
+     font-weight: 700;
+     display: flex;
+     justify-content: center;
+   }
+   .footer-car-bike-selling-address-para{
+     color: white;
+     font-size: 0.9rem;
+   }
+   .footer-one-color-line{
+    border: 1px solid rgb(203, 191, 191);
+  } 
+  .footer-car-bike-selling-address-icon{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+   }
+   
+   /* responsive */
+
+   @media (min-width:300px) and (max-width:600px){
+    #car-bike-logo{
+      margin-left: -58px !important;
+    }
+    .car-bike-logo-navbar-names {
+      display: flex
+  ;
+      justify-content: center;
+      /* margin-right: 28px; */
+      margin-left: -71px;
+      gap: 17px
+    }
+   }

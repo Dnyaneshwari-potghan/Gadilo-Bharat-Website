@@ -1,0 +1,872 @@
+* {
+  box-sizing: border-box; 
+ margin: 0;
+  padding: 0;
+  font-family: poppins;
+}
+
+html,
+body {
+  height: auto;
+  width: 100%;
+  overflow-x: hidden;
+}
+
+ .back-img-full{
+  height: 600px;
+ }
+ #car-bike-logo{
+  height: 90px;
+ }
+ .header-name {
+  margin-top: 52%;
+  font-size: 1.4rem;
+  font-weight: 500;
+}
+#header-contact{
+  margin-top: 36%;
+}
+.section-one-car-and-bike-selling-container-col-all {
+  background-color: #0A6294;
+  height: 60px;
+ position: fixed;
+ 
+}
+.car-bike-logo-navbar-names-body-section{
+  margin-left: 0px 0px 0px 0px !important;
+}
+ .section-one-car-and-bike-selling-logo{
+  margin-left: 50px;
+ }
+ 
+.car-bike-logo-navbar-names {
+  display: flex;
+  /* justify-content: ;
+  justify-self: end; */
+  gap: 40px;
+
+}
+/* }
+/* button */
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+.section-one-car-and-bike-selling-container-col-all {
+  z-index: 3;
+  height: 96px;
+}
+/* 
+.dropdown-button {
+  background-color: #e21b05;
+  color: white;
+  padding: 6px 15px;
+  border: none;
+  cursor: pointer;
+  font-size: 0.9rem;
+  font-family: poppins;
+  border-radius: 5px;
+}
+
+.dropdown-button:hover {
+  background-color: #0056b3;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: white;
+  min-width: 160px;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 5px 15px;
+  text-decoration: none;
+  display: block;
+  font-size: 14px;
+}
+
+.dropdown-content a:hover {
+  background-color: #f1f1f1;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+} */
+
+.logo-button-android-icon{
+   
+    display: flex
+;
+    justify-content: flex-end;
+    gap: 40px;
+}
+
+
+.logo-button-iconfirst  , .logo-button-iconsecond
+{
+  margin-top: 20px;
+}
+ 
+ 
+ 
+/* ---------- */
+
+/* about */
+#li {
+  text-transform: none;
+  text-decoration: none;
+}
+
+.section-second-about-name {
+  display: flex;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 700;
+}
+
+.car-bike-logo-navbar-names {
+  color: white;
+  font-size: 0.9rem;
+}
+
+.section-second-about-name-quote {
+  font-size: 1rem;
+  font-weight: 500;
+
+}
+
+#about-img {
+  height: 443px;
+  font-size: 0.9rem;
+}
+
+.section-second-about-name-second-part-two {
+  line-height: 25px;
+  font-size: 0.8rem;
+}
+
+#btn-orange-contact {
+  background-color: #0A6294;
+  color: white;
+  margin-left: 278px;
+  border-radius: 24px;
+  font-size: 0.7rem;
+}
+
+#btn-orange-contact :hover {
+  background-color: #a8c4d4;
+}
+
+
+#btn-orange-contact :hover {
+  background-color: rgb(12, 10, 10);
+}
+
+/* why */
+ 
+.section-second-about-why-two{
+  display: flex;
+ justify-content: center;
+}
+.section-second-about-why-two-subpart:hover {
+  transform: translateY(-10px);
+  border: 2px solid #0A6294;
+}
+
+.section-second-about-why-headline {
+  font-size: 2rem;
+  font-weight: 600;
+  color: rgb(28, 27, 27);
+  display: flex;
+  justify-content: center;
+}
+
+.section-second-about-why-two-subpart {
+  height: 420px;
+  width: 278px;
+  /* border: 2px solid  rgb(229, 219, 219); */
+  border-radius: 10px;
+  /* box-shadow: 20px 20px 20px 20px  rgb(163, 162, 162); */
+
+}
+
+.section-second-about-why-two-para1 {
+  display: flex;
+  justify-content: center;
+  font-size: 1.3rem;
+  font-weight: 500;
+}
+
+.section-second-about-why-two-para2 {
+  font-size: 0.8rem;
+  text-align: justify;
+  margin: 0px 50px 50px 50px;
+}
+
+.section-second-about-why-one-img {
+  display: flex;
+  justify-content: center;
+}
+
+#three-para {
+  margin-top: -9px;
+}
+
+#card-title{
+  font-size: 1.1rem;
+}
+/* services-------------- */
+.section-second-about-services-first-bike-all{
+  margin-left: 1%;
+}
+.section-second-about-services-name {
+  font-size: 2rem;
+  font-weight: 700;
+  display: flex;
+  justify-content: center;
+}
+.card-title{
+  display: flex;
+  justify-content: center;
+}
+.section-second-about-services-firstcar-name1 {
+  font-size: 1.2rem;
+  font-weight: 700;
+}
+
+.section-second-about-services-firstcar-name1 {
+  display: flex;
+  justify-content: center;
+}
+
+.section-second-about-services-bike-box {
+  display: flex;
+  justify-content: center;
+}
+
+.card-text {
+  font-size: 0.9rem;
+}
+
+/* company-name */
+
+.car-bike-selling-comapany-names-headline {
+  height: 200px;
+  width: 400px;
+  border: 1px solid #d7cfcf;
+  border-radius: 5px;
+
+}
+
+.car-bike-selling-comapany-names-headline {
+  margin-top: 20px;
+}
+
+.car-bike-selling-comapany-names-headline-name {
+  font-size: 1.4rem;
+  font-weight: 700;
+  display: flex;
+  justify-content: center;
+
+}
+.popular-brands{
+  display: flex;
+  justify-content: center;
+}
+
+/* qoute */
+
+
+#testinominal {
+  height: 372px;
+  width: 299px;
+  /* border: 1px solid rgb(35, 34, 34); */
+  border-radius: 34px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.carousel-inner::after {
+  display: block;
+  clear: none;
+  content: "";
+}
+.car-bike-selling-comapany-qoutes-name-one {
+  display: flex;
+  justify-content: center;
+}
+
+#testinominal:hover {
+  border: 2px solid #0A6294;
+}
+
+.car-bike-selling-comapany-qoutes-names-all-part {
+  display: flex;
+  justify-content: center;
+}
+
+#quote-name {
+  height: 111px;
+  width: 112px;
+  color: white;
+  border-radius: 60px;
+  padding: 35px;
+  font-size: 1.5rem;
+  font-weight: 700;
+  background-color: #0A6294;
+  /* margin-left: 190px ; */
+  display: flex;
+  justify-content: center;
+}
+
+.car-bike-selling-comapany-qoutes {
+  margin-top: 71px;
+  font-size: 2rem;
+  font-weight: 700;
+  display: flex;
+  justify-content: center;
+  /* margin-left: 238px ; */
+}
+
+.car-bike-selling-comapany-qoutes-name-one-qoute-full-name {
+  display: flex;
+  justify-content: center;
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+.car-bike-selling-comapany-qoutes-name-one-qoute{
+  font-size: 0.9rem;
+  margin: 15px 40px -8px 39px;
+  
+}  
+
+ 
+ 
+
+
+
+
+/* contact */
+.col-label{
+  width: 196px ;
+}
+.col-label-join{
+  display: flex;
+  gap: 30px;
+}
+.contact-section-name {
+  color: rgb(21, 21, 54);
+  font-size: 2rem;
+  font-weight: 600;
+  display: flex;
+  justify-content: center;
+}
+
+.contact-images {
+  display: flex;
+  justify-content: center;
+   
+  /* align-items: center; */
+  
+}
+
+.form-container {
+  background: #ffffff;
+  padding: 20px 30px;
+  border-radius: 8px;
+  /* box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); */
+  max-width: 400px;
+  width: 100%;
+  /* margin-left: 20px; */
+}
+
+.h2 {
+  margin-bottom: 20px;
+  color: #333333;
+  text-align: center;
+}
+#name-and-email {
+ 
+  display: flex;
+  margin: 10px 0px 0px 0px;
+  gap: 145px;
+}
+
+.car-bike-selling-comapany-names1{
+  display: flex;
+  justify-content: center;
+}
+.form-group {
+  margin-bottom: 20px;
+  color: #344054;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: 500;
+  font-size: 0.8rem;
+}
+
+input,
+textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+   font-size: 5;
+  color: #344054;
+}
+ 
+textarea {
+  resize: none;
+}
+
+.submit-btn {
+  width: 100%;
+  padding: 10px;
+
+  border: none;
+  border-radius: 4px;
+  background-color: #101010;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+
+#responseMessage {
+  margin-top: 15px;
+  color: black;
+  text-align: center;
+  font-weight: bold;
+}
+
+
+
+
+
+
+
+
+/* footer--------------- */
+
+  
+.footer-one-color-para {
+  color: white;
+  display: flex;
+  justify-content: center;
+  font-size: 0.7rem;
+
+}
+
+.footer-one-paragraph-more {
+  background-color: #0A6294;
+ 
+}
+.footer-one-paragraph-more-first-links-name {
+  color: white;
+    font-size: 1rem;
+    font-weight: 700;
+    
+  }
+  .footer-name{
+    color: white;
+    text-decoration: none;
+    font-size: 0.7rem;
+    display: flex;
+  }
+  .footer-one-paragraph-more-first-img-logo-para{
+    font-size: 0.7rem;
+    color: white;
+  }
+  .footer-car-bike-selling-address{
+    color: white;
+    font-size: 1rem;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+  }
+  .footer-car-bike-selling-address-para{
+    color: white;
+    font-size: 0.7rem;
+    line-height: 30px;
+  }
+  .footer-car-bike-selling-address-icon{
+    display: flex;
+    
+    gap: 20px;
+   }
+   #company-link {
+    text-decoration: none;
+    color: white;
+    font-size: 0.7rem;
+  }
+  .footer-one-color-line{
+    border: 1px solid rgb(203, 191, 191);
+  } 
+.footer-section-last{
+  margin-left: 0px !important;
+}
+.section-second-about-services{
+margin-left: 0px;
+}
+
+.gadilo-header-responsive-item{
+  display: flex;
+  margin-top: 5%;
+}
+.section-second-about-name-second-part-one-img{
+  margin-left: 77px;
+}
+ 
+/* responsive */
+@media (min-width: 300px) and (max-width:600px) {
+  .back-img-full {
+    height: 200px;
+    width: 390px;
+}
+.services-section-main{
+  margin-top: -93px !important;
+}
+#hide-img-mobile-left{
+  margin-left: 71%;
+}
+ #hide-img-mobile{
+  display: none;
+ }
+ #about-img {
+  height: 200px !important;
+  margin-left: -10% !important;
+}
+.logo-com{
+  height: 42px !important;
+  margin-top: 19% !important;
+}
+.section-second-about-why-headline {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: rgb(28, 27, 27);
+  display: flex
+;
+  justify-content: center;
+}
+  #btn-orange-contact {
+    margin-left: 0px;
+  }
+  .logo-button-iconfirst  , .logo-button-iconsecond
+{
+  display: none;
+  
+}
+  
+#car-bike-logo{
+  margin-left: -58px !important;
+}
+.car-bike-logo-navbar-names {
+  display: flex
+;
+  justify-content: center;
+  /* margin-right: 28px; */
+  margin-left: -71px;
+  gap: 17px
+}
+
+  .section-second-about-why-two-subpart {
+    display: block;
+    justify-content: center;
+  }
+
+  .section-second-about-services-firstcar-name1,
+  .section-second-about-services-firstcar-name1,
+  .section-second-about-services-firstcar-name1 {
+    font-size: 0.8rem;
+  }
+  #about-img {
+    height: 305px;
+  
+}
+#car-bike-logo{
+  margin-left: -58px !important;
+  height: 70px;
+}
+.car-bike-logo-navbar-names {
+  display: flex
+;
+  justify-content: center;
+  /* margin-right: 28px; */
+  margin-left: 6px;
+  gap: 17px;
+  margin-top: 1.5rem !important;
+}
+.footer-section-last{
+  display: block;
+}
+.footer-one-paragraph-more-first-links-name{
+  font-size: 0.7rem;
+}
+.logo-com{
+  height: 40px;
+}
+.footer-one{
+  display: block;
+}
+#service{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.gadilo-header-responsive-item{
+  display: flex;
+}
+.car-bike-selling-comapany-names1-car {
+   
+}
+.header-name {
+  font-size: 1rem;
+  font-weight: 500;
+}
+#header-contact {
+  margin-top: 16%;
+}
+}
+@media (min-width: 450px) and (max-width:600px){
+  .header-name {
+    margin-top: 21%;
+     
+}
+#about-img {
+ 
+  margin-left: 19% !important;
+}
+
+}
+@media (min-width: 300px) and (max-width:450px){
+  .header-name {
+    font-size: 1rem;
+    font-weight: 500;
+}
+#car-bike-logo {
+  margin-left: -62px !important;
+  height: 48px;
+}
+.car-bike-logo-navbar-names {
+  display: flex
+;
+  justify-content: center;
+  /* margin-right: 28px; */
+  margin-left: 3px;
+  gap: 11px;
+  margin-top: 0.8rem !important;
+}
+.header-name {
+  margin-top: 9px;
+  font-size: 0.8rem;
+  font-weight: 500;
+}
+#header-contact {
+  margin-top: 16%;
+}
+.section-second-about-services-first-bike-all{
+  margin-left: 7%;
+}
+}
+
+@media (min-width: 600px) and (max-width:900px) {
+  .section-second-about-why-two-subpart {
+    display: block;
+    justify-content: center;
+  }
+  .section-second-about-why-headline {
+    font-size: 1.3rem;
+    font-weight: 600;
+    color: rgb(28, 27, 27);
+    display: flex
+;
+    justify-content: center;
+}
+#about-img {
+  height: 212px;
+  display: flex
+;
+  justify-content: center;
+  margin-left: -8%;
+  margin-top: 9%;
+}
+  .contact-form-container-section-form{
+    display: flex;
+    justify-content: center;
+  }
+  .section-second-about-name-second-part-one-img{
+    display: flex;
+    justify-content:center;
+  }
+  .gadilo-header-responsive-item{
+    display: flex;
+  }
+  .car-bike-logo-navbar-names {
+    display: flex
+  ;
+    justify-content: center;
+    /* margin-right: 28px; */
+    margin-left: 6px;
+    gap: 17px;
+    margin-top: 1.5rem !important;
+  }
+  .logo-button-iconfirst  , .logo-button-iconsecond
+  {
+    display: none;
+    
+  }
+  .section-second-about-services-first-bike-all{
+    margin-left: 7%;
+  }
+}
+
+
+@media(min-width:820px) and (max-width:900px) {
+  #section-second-about-why-two {
+    display: flex;
+    gap: 40px;
+  }
+ 
+
+  #section-second-about-why-two-two {
+    display: flex;
+    gap: 40px;
+  }
+
+  .section-second-about-why-two-para2 {
+    font-size: 0.5rem;
+
+  }
+
+  .section-second-about-why-two-para1 {
+
+    font-size: 1rem;
+
+  }
+  .gadilo-header-responsive-item{
+    display: flex;
+  }
+  .car-bike-logo-navbar-names {
+    display: flex
+;
+    justify-content: center;
+    /* margin-right: 28px; */
+    margin-left: -94px;
+    gap: 17px;
+    margin-top: 1.9rem !important;
+}
+}
+
+
+
+@media(min-width:600px) and (max-width:700px) {
+  .car-bike-logo-navbar-names {
+    display: flex
+  ;
+    justify-content: center;
+    /* margin-right: 28px; */
+    margin-left: 118px;
+    gap: 17px;
+    margin-top: 1.9rem !important;
+  }
+  .header-name {
+    margin-top: 10%;
+   
+}
+#header-contact {
+  margin-top: 7%;
+}
+}
+
+
+@media(min-width:700px) and (max-width:900px) {
+  #header-contact {
+    margin-top: 9%;
+    margin-left: 108%;
+  }
+  .header-name {
+    margin-top: 12%;
+    
+    margin-left: 147%;
+}
+}
+ 
+
+@media(min-width:900px) and (max-width:1200px) {
+  #section-second-about-why-two {
+    display: flex;
+    gap: 80px;
+    justify-content: center;
+    align-items: center;
+  }
+
+  #section-second-about-why-two-two {
+    display: flex;
+    gap: 40px;
+  }
+  .gadilo-header-responsive-item{
+    display: flex;
+  }
+
+  .section-second-about-why-two-para2 {
+    font-size: 0.5rem;
+
+  }
+  .car-bike-logo-navbar-names {
+    display: flex
+  ;
+    justify-content: center;
+    /* margin-right: 28px; */
+    margin-left: 6px;
+    gap: 17px;
+    margin-top: 1.5rem !important;
+  }
+
+  .section-second-about-why-two-para1 {
+
+    font-size: 1rem;
+
+  }
+  #about-img {
+    height: 305px;
+  
+}
+.header-name {
+  margin-top: 16%;
+ 
+}
+#header-contact {
+  margin-top: 13%;
+}
+.logo-button-iconfirst  , .logo-button-iconsecond
+{
+  display: none;
+  
+}
+}
+@media (min-width: 400px) and (max-width: 600px) {
+  .back-img-full {
+    height: 200px;
+    width: 100%;
+  }
+}
+@media (min-width: 600px) and (max-width: 900px) {
+  .back-img-full {
+    height: 200px;
+    width: 100%;
+  }
+}
+@media (min-width: 900px) and (max-width: 1200px) {
+  .back-img-full {
+    height: 200px;
+    width: 100%;
+  }
+}
